@@ -8,7 +8,7 @@
 ## Descripción
 Esta organización reúne a aprendices y profesionales del SENA en la línea de desarrollo de software. Aquí encontrarás proyectos, repositorios y actividades relacionadas con el aprendizaje y desarrollo de habilidades en programación, diseño de software, bases de datos y más.
 
-## Grupos
+## Teams
 
 ### Team [2022-2023] ADSI-2281967
 [ADSI-2281967](https://github.com/ServicioNacionalAprendizaje/ADSI-2281967) - Team [2022-2023] ADSI-2281967.
