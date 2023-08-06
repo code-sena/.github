@@ -10,6 +10,9 @@ Esta organización reúne a aprendices y profesionales del SENA en la línea de 
 
 ## Grupos
 
+### Team [2022-2023] ADSI-2281967
+[ADSO-2449135](https://github.com/orgs/ServicioNacionalAprendizaje/teams/ADSI-2281967) - Team [2022-2023] ADSI-2281967.
+
 ### Team [2022-2023] ADSO-2449135
 [ADSO-2449135](https://github.com/orgs/ServicioNacionalAprendizaje/teams/ADSO-2449135) - Team [2022-2023] ADSO-2449135.
 
