@@ -10,6 +10,25 @@ Esta organización reúne a aprendices y profesionales del SENA en la línea de 
 
 ## Grupos
 
+### Team [2022-2023] ADSO-2449135
+[ADSO-2449135](https://github.com/orgs/ServicioNacionalAprendizaje/teams/team-2022-2023-adso-2449135) - Descripción del grupo.
+
+### Team [2022-2023] ADSO-2455275
+[ADSO-2455275](https://github.com/orgs/ServicioNacionalAprendizaje/teams/team-2022-2023-adso-2455275) - Descripción del grupo.
+
+### Team [2022-2023] ADSO-2468294
+[ADSO-2468294](https://github.com/orgs/ServicioNacionalAprendizaje/teams/team-2022-2023-adso-2468294) - Descripción del grupo.
+
+### Team [2021-2022] ADSO-2499719
+[ADSO-2499719](https://github.com/orgs/ServicioNacionalAprendizaje/teams/team-2021-2022-adso-2499719) - Descripción del grupo.
+
+### Team [2023] ADSO-2675847
+[ADSO-2675847](https://github.com/orgs/ServicioNacionalAprendizaje/teams/team-2023-adso-2675847) - Descripción del grupo.
+
+### Team [2023] ADSO-2694679
+[ADSO-2694679](https://github.com/orgs/ServicioNacionalAprendizaje/teams/team-2023-adso-2694679) - Descripción del grupo.
+
+
 ### ADSI-2281967
 Grupo de Aprendizaje y Desarrollo en Sistemas Informáticos (ADSI) - Cohorte 2281967.
 
