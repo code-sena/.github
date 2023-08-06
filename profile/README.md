@@ -11,25 +11,25 @@ Esta organización reúne a aprendices y profesionales del SENA en la línea de 
 ## Grupos
 
 ### Team [2022-2023] ADSI-2281967
-[ADSI-2449135](https://github.com/orgs/ServicioNacionalAprendizaje/ADSI-2281967) - Team [2022-2023] ADSI-2281967.
+[ADSI-2449135](https://github.com/ServicioNacionalAprendizaje/ADSI-2281967) - Team [2022-2023] ADSI-2281967.
 
 ### Team [2022-2023] ADSO-2449135
-[ADSO-2449135](https://github.com/orgs/ServicioNacionalAprendizaje/ADSO-2449135) - Team [2022-2023] ADSO-2449135.
+[ADSO-2449135](https://github.com/ServicioNacionalAprendizaje/ADSO-2449135) - Team [2022-2023] ADSO-2449135.
 
 ### Team [2022-2023] ADSO-2455275
-[ADSO-2455275](https://github.com/orgs/ServicioNacionalAprendizaje/ADSO-2455275) - Team [2022-2023] ADSO-2455275.
+[ADSO-2455275](https://github.com/ServicioNacionalAprendizaje/ADSO-2455275) - Team [2022-2023] ADSO-2455275.
 
 ### Team [2022-2023] ADSO-2468294
-[ADSO-2468294](https://github.com/orgs/ServicioNacionalAprendizaje/ADSO-2468294) - Team [2022-2023] ADSO-2468294.
+[ADSO-2468294](https://github.com/ServicioNacionalAprendizaje/ADSO-2468294) - Team [2022-2023] ADSO-2468294.
 
 ### Team [2021-2022] ADSO-2499719
-[ADSO-2499719](https://github.com/orgs/ServicioNacionalAprendizaje/ADSO-2499719) - Team [2021-2022] ADSO-2499719.
+[ADSO-2499719](https://github.com/ServicioNacionalAprendizaje/ADSO-2499719) - Team [2021-2022] ADSO-2499719.
 
 ### Team [2023] ADSO-2675847
-[ADSO-2675847](https://github.com/orgs/ServicioNacionalAprendizaje/ADSO-2675847) - Team [2023] ADSO-2675847.
+[ADSO-2675847](https://github.com/ServicioNacionalAprendizaje/ADSO-2675847) - Team [2023] ADSO-2675847.
 
 ### Team [2023] ADSO-2694679
-[ADSO-2694679](https://github.com/orgs/ServicioNacionalAprendizaje/ADSO-2694679) - Team [2023] ADSO-2694679.
+[ADSO-2694679](https://github.com/ServicioNacionalAprendizaje/ADSO-2694679) - Team [2023] ADSO-2694679.
 
 ## ¿Cómo colaborar?
 Si eres parte del SENA y deseas contribuir en nuestros proyectos o participar en nuestros grupos de desarrollo de software, ¡te damos la bienvenida! Puedes hacer lo siguiente:
