@@ -28,23 +28,6 @@ Esta organización reúne a aprendices y profesionales del SENA en la línea de 
 ### Team [2023] ADSO-2694679
 [ADSO-2694679](https://github.com/orgs/ServicioNacionalAprendizaje/teams/team-2023-adso-2694679) - Descripción del grupo.
 
-
-### ADSI-2281967
-Grupo de Aprendizaje y Desarrollo en Sistemas Informáticos (ADSI) - Cohorte 2281967.
-
-**Repositorios:**
-- [EcommerceAljuStore](https://github.com/ServicioNacionalAprendizaje/EcommerceAljuStore) - Proyecto de comercio electrónico AljuStore.
-- [ProyectoAxion](https://github.com/ServicioNacionalAprendizaje/ProyectoAxion) - Proyecto de desarrollo de software Axion.
-- [ProyectoEYD](https://github.com/ServicioNacionalAprendizaje/ProyectoEYD) - Proyecto de ingeniería y desarrollo de software.
-- [ProyectoGoing](https://github.com/ServicioNacionalAprendizaje/ProyectoGoing) - Proyecto Going para el aprendizaje de desarrollo de software.
-- [SistemaFacturacionAD](https://github.com/ServicioNacionalAprendizaje/SistemaFacturacionAD) - Sistema de Facturación para el grupo ADSI-2281967.
-
-### ADSO-2694679
-Grupo de Aprendizaje y Desarrollo en Sistemas Informáticos (ADSO) - Cohorte 2694679.
-
-**Repositorios:**
-- [Sesion-2694679](https://github.com/ServicioNacionalAprendizaje/Sesion-2694679) - Repositorio para el desarrollo de las sesiones del grupo ADSO-2694679.
-
 ## ¿Cómo colaborar?
 Si eres parte del SENA y deseas contribuir en nuestros proyectos o participar en nuestros grupos de desarrollo de software, ¡te damos la bienvenida! Puedes hacer lo siguiente:
 
