@@ -38,7 +38,7 @@ Esta organización reúne a aprendices y profesionales del SENA en la línea de 
 [ADSO-2758360](https://github.com/ServicioNacionalAprendizaje/ADSO-2758360.git) - Team [2024] ADSO-2758360.
 
 ### Team [2025] ADSO-3145644
-[ADSO-2758360](https://github.com/ServicioNacionalAprendizaje/ADSO-3145644) - Team [2025] ADSO-3145644.
+[ADSO-3145644](https://github.com/ServicioNacionalAprendizaje/ADSO-3145644) - Team [2025] ADSO-3145644.
 
 ## ¿Cómo colaborar?
 Si eres parte del SENA y deseas contribuir en nuestros proyectos o participar en nuestros grupos de desarrollo de software, ¡te damos la bienvenida! Puedes hacer lo siguiente:
