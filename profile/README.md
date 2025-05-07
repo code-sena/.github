@@ -41,7 +41,7 @@ Esta organización reúne a aprendices y profesionales del SENA en la línea de 
 [ADSO-3145644](https://github.com/code-sena/ADSO-3145644) - Team [2025] ADSO-3145644.
 
 ### Team [2025] ADSO-2977497
-[ADSO-3145644](https://github.com/code-sena/ADSO-2977497) - Team [2025] ADSO-2977497.
+[ADSO-2977497](https://github.com/code-sena/ADSO-2977497) - Team [2025] ADSO-2977497.
 
 ## ¿Cómo colaborar?
 Si eres parte del SENA y deseas contribuir en nuestros proyectos o participar en nuestros grupos de desarrollo de software, ¡te damos la bienvenida! Puedes hacer lo siguiente:
