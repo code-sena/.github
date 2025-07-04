@@ -46,7 +46,7 @@ Esta organización reúne a aprendices y profesionales del SENA en la línea de 
 ## Team [2025] ADSO-3070000
 [ADSO-3070000](https://github.com/code-sena/ADSO-3070000) - Team [2025] ADSO-3070000.
 
-## Team [2025] PROGRAMACION-3070000
+## Team [2025] PROGRAMACION-3236084
 [PROGRAMACION-3236084](https://github.com/code-sena/PROGRAMACION-3236084) - Team [2025] PROGRAMACION-3236084.
 
 ## ¿Cómo colaborar?
