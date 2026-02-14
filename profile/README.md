@@ -52,6 +52,9 @@ Esta organización reúne a aprendices y profesionales del SENA en la línea de 
 ## Team [2026] ADSO-3239137
 [ADSO-3239137](https://github.com/code-sena/ADSO-3239137) - Team [2026] ADSO-3239137.
 
+## Team [2026] ADSO-3413974
+[ADSO-3413974](https://github.com/code-sena/ADSO-3413974) - Team [2026] ADSO-3413974.
+
 ## ¿Cómo colaborar?
 Si eres parte del SENA y deseas contribuir en nuestros proyectos o participar en nuestros grupos de desarrollo de software, ¡te damos la bienvenida! Puedes hacer lo siguiente:
 
