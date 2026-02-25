@@ -55,6 +55,9 @@ Esta organización reúne a aprendices y profesionales del SENA en la línea de 
 ## Team [2026] ADSO-3413974
 [ADSO-3413974](https://github.com/code-sena/ADSO-3413974) - Team [2026] ADSO-3413974.
 
+## Team [2026] ADSO-3145555
+[ADSO-3145555](https://github.com/code-sena/ADSO-3145555) - Team [2026] ADSO-3145555.
+
 ## Team [2026] ADSO-3145556
 [ADSO-3145556](https://github.com/code-sena/ADSO-3145556) - Team [2026] ADSO-3145556.
 
